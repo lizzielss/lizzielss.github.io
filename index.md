@@ -49,7 +49,7 @@
 
 <a name="miao3"></a>
 ### 论文
-<a href="../北京交通大学本科毕设论文-黎斯思.pdf" target="_blank">北京交通大学本科毕设论文-黎斯思.pdf</a>
+<a href="/北京交通大学本科毕设论文-黎斯思.pdf" target="_blank">北京交通大学本科毕设论文-黎斯思.pdf</a>
 
 ---
 
