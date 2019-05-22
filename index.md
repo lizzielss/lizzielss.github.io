@@ -49,11 +49,12 @@
 
 <a name="miao3"></a>
 ### 论文
-<a href="/北京交通大学本科毕设论文-黎斯思.pdf" target="_blank">北京交通大学本科毕设论文-黎斯思.pdf</a>
+<a href="/动态推荐算法的研究与改进-黎斯思.pdf" target="_blank">动态推荐算法的研究与改进-黎斯思.pdf</a>
 
 ---
 
 <a name="miao4"></a>
 ### 代码
+<a href="https://github.com/lizzielss/test">代码</a>
 
 ---
