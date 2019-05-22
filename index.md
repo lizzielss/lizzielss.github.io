@@ -16,10 +16,14 @@
 </table>
 </div>
 
-<a href="#miao1">个人简历</a>
-<a href="#miao2">动态推荐算法</a>
-<a href="#miao3">论文</a>
-<a href="#miao4">代码</a>
+
+<p><a href="#miao1">个人简历</a></p>
+<p><a href="#miao2">动态推荐算法</a></p>
+<p><a href="#miao3">论文</a></p>
+<p><a href="#miao4">代码</a></p>
+
+
+
 
 ---
 
